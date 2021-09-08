@@ -3,27 +3,36 @@
 [![Issues][issues-shield]][issues-url]
   
 
+
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/TRADLY-PLATFORM/Penguin">
-    <img src="https://avatars.githubusercontent.com/u/40002234?v=4" alt="Logo" width="80" height="80">
+    <a href="https://github.com/TRADLY-PLATFORM/Wolverine">
+    <img src="https://avatars.githubusercontent.com/u/64465296?s=200&v=4" alt="Logo" width="80" height="80">
   </a>
  
   <h3 align="center">Tradly Platform</h3>
-
-  <p align="center">
-     An open source React-Native App. Contents served from Tradly Headless API
+ 
+ <p align="center">
+     An open source React Native Template. Built on top of Tradly Headless API
     <br />
     <a href="https://portal.tradly.app/docs/introduction"><strong>Explore the docs »</strong></a>
     <br />
     <br />
+    <a href="https://portal.tradly.app/react-native">View Demo</a>
+    ·
+    <a href="https://github.com/TRADLY-PLATFORM/Wolverine/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/TRADLY-PLATFORM/Wolverine/issues">Request Feature</a>
   </p>
 </p>
 
-
-
-<!-- TABLE OF CONTENTS -->
+ [![Contributors][contributors-shield]][contributors-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+  
+  <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
@@ -42,6 +51,7 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <!-- <li><a href="#acknowledgements">Acknowledgements</a></li> -->
@@ -52,9 +62,20 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This is an open source business application. Which you can easily use for your business platform by changing a little bit.It has all the features of a business application. The benefits of SEO have also been added. Which is Google friendly. And you can easily optimize your application.
+This React Native template provides a basic to intermediate mobility based project. With a few smaller customisation on strings used in the app, it can be personalised for other marketplace types as well. Progressively we will be adding the mobile app configs that will help you to customise things from [Tradly SuperAdmin](https://auth.sandbox.tradly.app/register)
+
+Current Use cases we have in mind
+- Recycle Management App 
+- Geo directory based Apps 
+
+The short video could explain the feature sets we have. Just ping us in community forum if you would like to have the Figma file
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T1sN1C9qUSI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
  
+ ## Features
+ PENDING TO BE ADDED HERE THE LIST
 
 ### Built With
 
@@ -100,8 +121,9 @@ We recommend installing Node and Watchman using [Homebrew](https://brew.sh). Run
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-There are some things you need to know to work on this open source.
-* You might be change these values which are given below
+Here is some client/app specific things you might need to change. 3rd party integrations with Stripe, Firebase, Sentry need your own account Keys for it to work. 
+- TenantID of Tradly can be found from [Tradly Superadmin Dashboard](https://superadmin.sandbox.tradly.app)(Sandbox or Production tenantID/APIkey based on your purchase)
+- You might be change these values which are given below
 
 ```tsx
 // AppConstant.js
@@ -116,9 +138,7 @@ There are some things you need to know to work on this open source.
 
 <!-- ROADMAP -->
 ## Roadmap
-
 See the [open issues](https://github.com/TRADLY-PLATFORM/Penguin/issues) for a list of proposed features (and known issues).
-
 
 
 
@@ -130,11 +150,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- CONTACT -->
-## Contact
-
-Tradly Platform   -  hitradly@gmail.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/TRADLY-PLATFORM/Penguin)
+- [create an issue](https://github.com/TRADLY-PLATFORM/Wolverine/issues)
+- join our [community forum] for further discussion (https://community.tradly.app)
+- Tradly Platform   -  hitradly@gmail.com
+- Project Link: [https://github.com/github_username/repo_name](https://github.com/TRADLY-PLATFORM/Wolverine)
 
 
 
