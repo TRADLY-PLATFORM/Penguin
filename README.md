@@ -69,7 +69,9 @@ Current Use cases we have in mind
 - Geo directory based Apps 
 
 The short video could explain the feature sets we have. Just ping us in community forum if you would like to have the Figma file
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T1sN1C9qUSI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[App Features youtube link](https://www.youtube.com/watch?v=G6efOFbjV9E)
+
 
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
